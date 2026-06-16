@@ -1,4 +1,5 @@
 # Practice Lab – Stage, Commit & Push Code to GitHub
+
 > Day 15 – Git & GitHub Practice Lab
 
 This Practice Lab will guide students on how to:
@@ -14,19 +15,19 @@ This Practice Lab will guide students on how to:
 
 # Table of Contents
 
-| Task | Title |
-|------|--------|
-| 1 | [Update Git Username](#task-1---update-git-username) |
-| 2 | [Update Git User Email](#task-2---update-git-user-email) |
-| 3 | [Initialize Local Repository](#task-3---initialize-local-repository) |
-| 4 | [Check Repository Status](#task-4---check-repository-status) |
-| 5 | [Stage Files](#task-5---stage-files) |
-| 6 | [Commit Your Work](#task-6---commit-your-work) |
-| 7 | [Configure SSH Keys](#task-7---configure-ssh-keys) |
-| 8 | [Check Your Branch Name](#task-8---check-your-branch-name) |
-| 9 | [Add Remote GitHub Repository](#task-9---add-remote-github-repository) |
-| 10 | [Push Code to GitHub](#task-10---push-code-to-github) |
-| 11 | [Final Reflection](#final-reflection) |
+| Task | Title                                                                  |
+| ---- | ---------------------------------------------------------------------- |
+| 1    | [Update Git Username](#task-1---update-git-username)                   |
+| 2    | [Update Git User Email](#task-2---update-git-user-email)               |
+| 3    | [Initialize Local Repository](#task-3---initialize-local-repository)   |
+| 4    | [Check Repository Status](#task-4---check-repository-status)           |
+| 5    | [Stage Files](#task-5---stage-files)                                   |
+| 6    | [Commit Your Work](#task-6---commit-your-work)                         |
+| 7    | [Configure SSH Keys](#task-7---configure-ssh-keys)                     |
+| 8    | [Check Your Branch Name](#task-8---check-your-branch-name)             |
+| 9    | [Add Remote GitHub Repository](#task-9---add-remote-github-repository) |
+| 10   | [Push Code to GitHub](#task-10---push-code-to-github)                  |
+| 11   | [Final Reflection](#final-reflection)                                  |
 
 ---
 
@@ -267,12 +268,12 @@ git push -u origin master
 
 ## Explanation
 
-| Command Part | Purpose |
-|--------------|----------|
-| git push | Pushes code to remote repository |
-| -u | Sets upstream tracking |
-| origin | Remote repository name |
-| master | Branch name |
+| Command Part | Purpose                          |
+| ------------ | -------------------------------- |
+| git push     | Pushes code to remote repository |
+| -u           | Sets upstream tracking           |
+| origin       | Remote repository name           |
+| master       | Branch name                      |
 
 ---
 
